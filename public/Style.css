@@ -1,0 +1,26 @@
+.menu-ul{
+    list-style-type: none;
+    margin: 10px;
+    float: right;
+    margin-right: 20px;
+    background-color: rgb(64, 123, 163);
+    text-decoration: none;
+}
+.menu-ul li{
+    display: inline-block;
+    margin-left: 10px;
+
+}
+h1{
+    background-color: cadetblue;
+    padding: 10px;
+}
+h3 
+{
+    background: cadetblue;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
